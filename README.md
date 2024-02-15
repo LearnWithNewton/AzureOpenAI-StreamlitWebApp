@@ -18,4 +18,4 @@
 	+ chat_app.py
 	+ dalle_app.py
 
-8. YouTube Video Tutorial [Link](https://github.com/LearnWithNewton/Streamlit-Azure-OpenAI-WebApp.git)
+8. YouTube Video Tutorial [Link](https://github.com/LearnWithNewton/AzureOpenAI-StreamlitWebApp.git)
